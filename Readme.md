@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Арсен Нартикоев](https://up.htmlacademy.ru/htmlcss/30/user/1677629).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena)
 
 ---
 
